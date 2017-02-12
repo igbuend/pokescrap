@@ -1,0 +1,757 @@
+[
+   {
+      "id":"149",
+      "name":"Dragonite",
+      "show_filter":true
+   },
+   {
+      "id":"143",
+      "name":"Snorlax",
+      "show_filter":true
+   },
+   {
+      "id":"131",
+      "name":"Lapras",
+      "show_filter":true
+   },
+   {
+      "id":"130",
+      "name":"Gyarados",
+      "show_filter":true
+   },
+   {
+      "id":"3",
+      "name":"Venusaur",
+      "show_filter":true
+   },
+   {
+      "id":"6",
+      "name":"Charizard",
+      "show_filter":true
+   },
+   {
+      "id":"9",
+      "name":"Blastoise",
+      "show_filter":true
+   },
+   {
+      "id":"59",
+      "name":"Arcanine",
+      "show_filter":true
+   },
+   {
+      "id":"65",
+      "name":"Alakazam",
+      "show_filter":true
+   },
+   {
+      "id":"68",
+      "name":"Machamp",
+      "show_filter":true
+   },
+   {
+       "id": "76",
+       "name": "Golem",
+       "show_filter": true
+   },
+   {
+      "id":"89",
+      "name":"Muk",
+      "show_filter":true
+   },
+   {
+      "id":"103",
+      "name":"Exeggutor",
+      "show_filter":true
+   },
+   {
+      "id":"106",
+      "name":"Hitmonlee",
+      "show_filter":true
+   },
+   {
+      "id":"107",
+      "name":"Hitmonchan",
+      "show_filter":true
+   },
+   {
+      "id":"108",
+      "name":"Lickitung",
+      "show_filter":true
+   },
+   {
+       "id": "112",
+       "name": "Rhydon",
+       "show_filter": true
+   },
+   {
+      "id":"142",
+      "name":"Aerodactyl",
+      "show_filter":true
+   },
+   {
+      "id":"113",
+      "name":"Chansey",
+      "show_filter":true
+   },
+   {
+      "id":"134",
+      "name":"Vaporeon",
+      "show_filter":true
+   },
+   {
+      "id":"135",
+      "name":"Jolteon",
+      "show_filter":true
+   },
+   {
+      "id":"136",
+      "name":"Flareon",
+      "show_filter":true
+   },
+   {
+      "id":"137",
+      "name":"Porygon",
+      "show_filter":true
+   },
+   {
+       "id": "63",
+       "name": "Abra",
+       "show_filter": true
+   },
+   {
+       "id": "24",
+       "name": "Arbok",
+       "show_filter": true
+   },
+   {
+       "id": "144",
+       "name": "Articuno",
+       "show_filter": true
+   },
+   {
+       "id": "15",
+       "name": "Beedrill",
+       "show_filter": true
+   },
+   {
+       "id": "69",
+       "name": "Bellsprout",
+       "show_filter": false
+   },
+   {
+       "id": "1",
+       "name": "Bulbasaur",
+       "show_filter": true
+   },
+   {
+       "id": "12",
+       "name": "Butterfree",
+       "show_filter": true
+   },
+   {
+       "id": "10",
+       "name": "Caterpie",
+       "show_filter": false
+   },
+   {
+       "id": "4",
+       "name": "Charmander",
+       "show_filter": true
+   },
+   {
+       "id": "5",
+       "name": "Charmeleon",
+       "show_filter": true
+   },
+   {
+       "id": "36",
+       "name": "Clefable",
+       "show_filter": true
+   },
+   {
+       "id": "35",
+       "name": "Clefairy",
+       "show_filter": true
+   },
+   {
+       "id": "91",
+       "name": "Cloyster",
+       "show_filter": true
+   },
+   {
+       "id": "104",
+       "name": "Cubone",
+       "show_filter": true
+   },
+   {
+       "id": "87",
+       "name": "Dewgong",
+       "show_filter": true
+   },
+   {
+       "id": "50",
+       "name": "Diglett",
+       "show_filter": true
+   },
+   {
+       "id": "132",
+       "name": "Ditto",
+       "show_filter": true
+   },
+   {
+       "id": "85",
+       "name": "Dodrio",
+       "show_filter": true
+   },
+   {
+       "id": "84",
+       "name": "Doduo",
+       "show_filter": false
+   },
+   {
+       "id": "148",
+       "name": "Dragonair",
+       "show_filter": true
+   },
+   {
+       "id": "147",
+       "name": "Dratini",
+       "show_filter": true
+   },
+   {
+       "id": "96",
+       "name": "Drowzee",
+       "show_filter": true
+   },
+   {
+       "id": "51",
+       "name": "Dugtrio",
+       "show_filter": true
+   },
+   {
+       "id": "133",
+       "name": "Eevee",
+       "show_filter": true
+   },
+   {
+       "id": "23",
+       "name": "Ekans",
+       "show_filter": false
+   },
+   {
+       "id": "125",
+       "name": "Electabuzz",
+       "show_filter": true
+   },
+   {
+       "id": "101",
+       "name": "Electrode",
+       "show_filter": true
+   },
+   {
+       "id": "102",
+       "name": "Exeggcute",
+       "show_filter": true
+   },
+   {
+       "id": "83",
+       "name": "Farfetch'd",
+       "show_filter": true
+   },
+   {
+       "id": "22",
+       "name": "Fearow",
+       "show_filter": true
+   },
+   {
+       "id": "92",
+       "name": "Gastly",
+       "show_filter": false
+   },
+   {
+       "id": "94",
+       "name": "Gengar",
+       "show_filter": true
+   },
+   {
+       "id": "74",
+       "name": "Geodude",
+       "show_filter": true
+   },
+   {
+       "id": "44",
+       "name": "Gloom",
+       "show_filter": true
+   },
+   {
+       "id": "42",
+       "name": "Golbat",
+       "show_filter": false
+   },
+   {
+       "id": "118",
+       "name": "Goldeen",
+       "show_filter": false
+   },
+   {
+       "id": "55",
+       "name": "Golduck",
+       "show_filter": true
+   },
+   {
+       "id": "75",
+       "name": "Graveler",
+       "show_filter": true
+   },
+   {
+       "id": "88",
+       "name": "Grimer",
+       "show_filter": true
+   },
+   {
+       "id": "58",
+       "name": "Growlithe",
+       "show_filter": true
+   },
+   {
+       "id": "93",
+       "name": "Haunter",
+       "show_filter": true
+   },
+   {
+       "id": "116",
+       "name": "Horsea",
+       "show_filter": false
+   },
+   {
+       "id": "97",
+       "name": "Hypno",
+       "show_filter": true
+   },
+   {
+       "id": "2",
+       "name": "Ivysaur",
+       "show_filter": true
+   },
+   {
+       "id": "39",
+       "name": "Jigglypuff",
+       "show_filter": true
+   },
+   {
+       "id": "124",
+       "name": "Jynx",
+       "show_filter": true
+   },
+   {
+       "id": "140",
+       "name": "Kabuto",
+       "show_filter": true
+   },
+   {
+       "id": "141",
+       "name": "Kabutops",
+       "show_filter": true
+   },
+   {
+       "id": "64",
+       "name": "Kadabra",
+       "show_filter": true
+   },
+   {
+       "id": "14",
+       "name": "Kakuna",
+       "show_filter": true
+   },
+   {
+       "id": "115",
+       "name": "Kangaskhan",
+       "show_filter": true
+   },
+   {
+       "id": "99",
+       "name": "Kingler",
+       "show_filter": true
+   },
+   {
+       "id": "109",
+       "name": "Koffing",
+       "show_filter": true
+   },
+   {
+       "id": "98",
+       "name": "Krabby",
+       "show_filter": false
+   },
+   {
+       "id": "67",
+       "name": "Machoke",
+       "show_filter": true
+   },
+   {
+       "id": "66",
+       "name": "Machop",
+       "show_filter": true
+   },
+   {
+       "id": "129",
+       "name": "Magikarp",
+       "show_filter": true
+   },
+   {
+       "id": "126",
+       "name": "Magmar",
+       "show_filter": true
+   },
+   {
+       "id": "81",
+       "name": "Magnemite",
+       "show_filter": false
+   },
+   {
+       "id": "82",
+       "name": "Magneton",
+       "show_filter": true
+   },
+   {
+       "id": "56",
+       "name": "Mankey",
+       "show_filter": true
+   },
+   {
+       "id": "105",
+       "name": "Marowak",
+       "show_filter": true
+   },
+   {
+       "id": "52",
+       "name": "Meowth",
+       "show_filter": false
+   },
+   {
+       "id": "11",
+       "name": "Metapod",
+       "show_filter": true
+   },
+   {
+       "id": "151",
+       "name": "Mew",
+       "show_filter": true
+   },
+   {
+       "id": "150",
+       "name": "Mewtwo",
+       "show_filter": true
+   },
+   {
+       "id": "146",
+       "name": "Moltres",
+       "show_filter": true
+   },
+   {
+       "id": "122",
+       "name": "Mr. Mime",
+       "show_filter": true
+   },
+   {
+       "id": "34",
+       "name": "Nidoking",
+       "show_filter": true
+   },
+   {
+       "id": "31",
+       "name": "Nidoqueen",
+       "show_filter": true
+   },
+   {
+       "id": "29",
+       "name": "Nidoranâ??",
+       "show_filter": false
+   },
+   {
+       "id": "32",
+       "name": "Nidoranâ??",
+       "show_filter": false
+   },
+   {
+       "id": "30",
+       "name": "Nidorina",
+       "show_filter": true
+   },
+   {
+       "id": "33",
+       "name": "Nidorino",
+       "show_filter": true
+   },
+   {
+       "id": "38",
+       "name": "Ninetales",
+       "show_filter": true
+   },
+   {
+       "id": "43",
+       "name": "Oddish",
+       "show_filter": true
+   },
+   {
+       "id": "138",
+       "name": "Omanyte",
+       "show_filter": true
+   },
+   {
+       "id": "139",
+       "name": "Omastar",
+       "show_filter": true
+   },
+   {
+       "id": "95",
+       "name": "Onix",
+       "show_filter": true
+   },
+   {
+       "id": "46",
+       "name": "Paras",
+       "show_filter": false
+   },
+   {
+       "id": "47",
+       "name": "Parasect",
+       "show_filter": true
+   },
+   {
+       "id": "53",
+       "name": "Persian",
+       "show_filter": true
+   },
+   {
+       "id": "18",
+       "name": "Pidgeot",
+       "show_filter": true
+   },
+   {
+       "id": "17",
+       "name": "Pidgeotto",
+       "show_filter": false
+   },
+   {
+       "id": "16",
+       "name": "Pidgey",
+       "show_filter": false
+   },
+   {
+       "id": "25",
+       "name": "Pikachu",
+       "show_filter": true
+   },
+   {
+       "id": "127",
+       "name": "Pinsir",
+       "show_filter": false
+   },
+   {
+       "id": "60",
+       "name": "Poliwag",
+       "show_filter": false
+   },
+   {
+       "id": "61",
+       "name": "Poliwhirl",
+       "show_filter": true
+   },
+   {
+       "id": "62",
+       "name": "Poliwrath",
+       "show_filter": true
+   },
+   {
+       "id": "77",
+       "name": "Ponyta",
+       "show_filter": true
+   },
+   {
+       "id": "57",
+       "name": "Primeape",
+       "show_filter": true
+   },
+   {
+       "id": "54",
+       "name": "Psyduck",
+       "show_filter": false
+   },
+   {
+       "id": "26",
+       "name": "Raichu",
+       "show_filter": true
+   },
+   {
+       "id": "78",
+       "name": "Rapidash",
+       "show_filter": true
+   },
+   {
+       "id": "20",
+       "name": "Raticate",
+       "show_filter": false
+   },
+   {
+       "id": "19",
+       "name": "Rattata",
+       "show_filter": false
+   },
+   {
+       "id": "111",
+       "name": "Rhyhorn",
+       "show_filter": true
+   },
+   {
+       "id": "27",
+       "name": "Sandshrew",
+       "show_filter": true
+   },
+   {
+       "id": "28",
+       "name": "Sandslash",
+       "show_filter": true
+   },
+   {
+       "id": "123",
+       "name": "Scyther",
+       "show_filter": true
+   },
+   {
+       "id": "117",
+       "name": "Seadra",
+       "show_filter": true
+   },
+   {
+       "id": "119",
+       "name": "Seaking",
+       "show_filter": true
+   },
+   {
+       "id": "86",
+       "name": "Seel",
+       "show_filter": true
+   },
+   {
+       "id": "90",
+       "name": "Shellder",
+       "show_filter": true
+   },
+   {
+       "id": "80",
+       "name": "Slowbro",
+       "show_filter": true
+   },
+   {
+       "id": "79",
+       "name": "Slowpoke",
+       "show_filter": true
+   },
+   {
+       "id": "21",
+       "name": "Spearow",
+       "show_filter": false
+   },
+   {
+       "id": "7",
+       "name": "Squirtle",
+       "show_filter": true
+   },
+   {
+       "id": "121",
+       "name": "Starmie",
+       "show_filter": true
+   },
+   {
+       "id": "120",
+       "name": "Staryu",
+       "show_filter": false
+   },
+   {
+       "id": "114",
+       "name": "Tangela",
+       "show_filter": true
+   },
+   {
+       "id": "128",
+       "name": "Tauros",
+       "show_filter": true
+   },
+   {
+       "id": "72",
+       "name": "Tentacool",
+       "show_filter": false
+   },
+   {
+       "id": "73",
+       "name": "Tentacruel",
+       "show_filter": true
+   },
+   {
+       "id": "49",
+       "name": "Venomoth",
+       "show_filter": true
+   },
+   {
+       "id": "48",
+       "name": "Venonat",
+       "show_filter": false
+   },
+   {
+       "id": "71",
+       "name": "Victreebel",
+       "show_filter": true
+   },
+   {
+       "id": "45",
+       "name": "Vileplume",
+       "show_filter": true
+   },
+   {
+       "id": "100",
+       "name": "Voltorb",
+       "show_filter": false
+   },
+   {
+       "id": "37",
+       "name": "Vulpix",
+       "show_filter": true
+   },
+   {
+       "id": "8",
+       "name": "Wartortle",
+       "show_filter": true
+   },
+   {
+       "id": "13",
+       "name": "Weedle",
+       "show_filter": false
+   },
+   {
+       "id": "70",
+       "name": "Weepinbell",
+       "show_filter": true
+   },
+   {
+       "id": "110",
+       "name": "Weezing",
+       "show_filter": true
+   },
+   {
+       "id": "40",
+       "name": "Wigglytuff",
+       "show_filter": true
+   },
+   {
+       "id": "145",
+       "name": "Zapdos",
+       "show_filter": true
+   },
+   {
+       "id": "41",
+       "name": "Zubat",
+       "show_filter": false
+   }
+]
